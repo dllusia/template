@@ -1,8 +1,8 @@
 ---
-title: "Finley Malloc"
+title: "Diego Llusia"
 about:
   template: trestles
-  image: avatar.jpg
+  image: avatar.jpeg
   links:
     - icon: envelope
       # text: email
